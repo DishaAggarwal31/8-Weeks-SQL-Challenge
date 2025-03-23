@@ -1,7 +1,7 @@
 # Case Study 1: Danny's Diner
 
 ## Solution
-Full queries - 
+[Click here for all queries](https://github.com/DishaAggarwal31/8-Weeks-SQL-Challenge/blob/main/Case%20Study%231%3A%20Danny's%20Diner/CaseStudy1_Dannys_Diner_AnswerQueries.sql)
 ***
 
 ### 1. What is the total amount each customer spent at the restaurant?
